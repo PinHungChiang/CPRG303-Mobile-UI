@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "CPRG303 Mobile UI",
+    "slug": "cprg303-mobile-ui-assignment",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "cprg303mobileui",
+    "plugins": ["expo-router"],
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
