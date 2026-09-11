@@ -29,3 +29,4 @@ Then:
 ## Group-work reminder
 
 The assignment requires at least 3 Git commits and visible code contributions from all group members. Each member should make and push a genuine change from their own GitHub account.
+Tested successfully on iOS using Expo Go.
