@@ -66,7 +66,7 @@ export default function HomeScreen() {
         <View style={styles.bioSection}>
           <Text style={styles.profileName}>OOTD Everyday</Text>
           <Text style={styles.bioText}>Fit check! 👕</Text>
-          <Text style={styles.bioText}>You know we&apos;ll hype you up.</Text>
+          <Text style={styles.bioText}>Daily outfit inspiration and style ideas.</Text>
         </View>
 
         <Pressable style={styles.memberButton}>
